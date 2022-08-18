@@ -5,4 +5,4 @@ if(first == second){
 }
 else{
     console.log("condition is false");
-}
+} 
